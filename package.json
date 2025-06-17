@@ -1,0 +1,21 @@
+{
+  "name": "weathercli",
+  "version": "1.0.0",
+  "description": "A CLI tool that lets users write and read journal entries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eliott Herbert-Byrnes",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "commander": "^14.0.0",
+    "express": "^5.1.0",
+    "figlet": "^1.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "typescript": "^5.8.3"
+  }
+}
