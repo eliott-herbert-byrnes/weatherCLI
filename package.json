@@ -2,6 +2,7 @@
   "name": "weathercli",
   "version": "1.0.0",
   "description": "A CLI tool that lets users write and read journal entries",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
