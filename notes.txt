@@ -1,0 +1,33 @@
+/* -----------------------------------------------------------------------------------*/
+# https://www.freecodecamp.org/news/nodejs-tutorial-build-a-task-manager-cli-tool/
+
+/* -----------------------------------------------------------------------------------*/
+# Github code
+
+https://github.com/KrishJ4856/task-manager-cli-fcc
+
+/* -----------------------------------------------------------------------------------*/
+# Converting to ES Modules
+
+1. remove - "main": "index.js"
+2. add {
+    "exports": "./index.js",
+    "type": "module",
+}
+
+/* -----------------------------------------------------------------------------------*/
+# Settting up MongoDb account
+
+https://www.freecodecamp.org/news/get-started-with-mongodb-atlas/
+
+eliottchbyrnes
+DBve3E13YqiPqccd
+
+/* -----------------------------------------------------------------------------------*/
+# shebang
+
+#!/usr/bin/env node
+
+This command is a 'shebang'. It informs the system to execute the script
+using the Node.js interpreter. Which enables you to run the script directly
+from the command line without explicitly typing node before the script filename.
